@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **mesutkayadev@gmail.com**
+- 📫 How to reach me **mesutkayadev@gmail.com, https://www.linkedin.com/in/mesut-kaya-ytu/**
 
 
 
